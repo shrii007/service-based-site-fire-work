@@ -1,0 +1,59 @@
+
+.Cont1{
+    width:600px;
+    height: 800px;
+    border: 1%;
+    background: url('./image/smk2.jpeg') no-repeat center center;
+      background-size: 100% 50%;
+      background-position: center;
+     
+      text-align: center; 
+        /* display: inline-block; */
+        display: flex;
+        align-items: center;
+  
+     }
+     .Cont2{
+      width:600px;
+    height: 800px;
+      border: 1%;
+      background: url('./image/smk1.jpeg') no-repeat center center;
+        background-size: 100% 50%;
+        text-align: center; 
+        display: inline-block;
+        text-align: center;      
+       }
+       .Cont3{
+        width:600px;
+        height: 800px;
+        border: 1%;
+        background: url('./image/smk3.jpeg') no-repeat center center;
+          background-size: 100% 50%;
+  
+          text-align: center; 
+        display: inline-block;
+      
+         }
+         .Cont4{
+          width:600px;
+          height: 800px;
+          border: 1%;
+          background: url('./image/smkH1.jpeg') no-repeat ;
+            background-size: 100% 50%;
+           position: right;  
+           }
+           .cont8{
+            /* text-align: center; */
+            /* float: left; */
+            margin-right: 20px;
+            overflow: hidden;
+  
+            display: flex;
+            align-items: center;
+            width:100%;
+            height: 50%;
+            border: 1%;
+            
+          }
+           
+  
